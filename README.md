@@ -5,9 +5,9 @@
   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danah2139@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dana-cohen-5176b514b/)
   
-  👧: My name is Dana Cohen 
+  👧 : My name is Dana Cohen 
   
-  :woman_student: I'm a Recent Software Engineer graduate from JCT LEV ACADEMIC CENTER
+  :woman_student: I'm a Recent Computer Sciense graduate from JCT LEV ACADEMIC CENTER
   
   👩‍💻 : In my spare time I enjoy learning about new discoveries and new technologies. 
   
