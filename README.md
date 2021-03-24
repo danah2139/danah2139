@@ -1,5 +1,5 @@
 
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> HI EVERERYONE <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
   
   [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danah2139@gmail.com)
@@ -9,8 +9,10 @@
   
   :woman_student: I'm a Recent Computer Sciense graduate from JCT LEV ACADEMIC CENTER
   
-  👩‍💻 : In my spare time I enjoy learning about new discoveries and new technologies. 
+  👩‍💻 : I LOVE TO LEARN ABOUT NEW TECHNELOGIES. 
   
+If you like my Repos, Please click the ⭐
+
 
 
 ## Languages and Technologies
@@ -39,3 +41,4 @@ These are some of the languages and technologies that I've used in the past and 
 ![Material-UI](https://img.shields.io/badge/-MaterialUI-000000?style=flat&logo=Material-UI)
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+
