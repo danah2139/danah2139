@@ -7,9 +7,9 @@
   
   👧  My name is Dana Cohen 
   
-  :woman_student: I'm a Recent Computer Sciense graduate from JCT LEV ACADEMIC CENTER
+  :woman_student: I'm a Recent Computer Sciense graduate from Lev acadamic center
   
-  👩‍💻  I LOVE TO LEARN ABOUT NEW TECHNELOGIES. 
+  👩‍💻  I love to learn new technologies. 
   
 If you like my Repos, Please click the ⭐
 
