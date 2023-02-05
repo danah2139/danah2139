@@ -6,9 +6,7 @@
   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dana-cohen-5176b514b/)
   
   👧  My name is Dana Cohen 
-  
-  :woman_student: I'm a Recent Computer Sciense graduate from Lev acadamic center
-  
+    
   👩‍💻  I love to learn new technologies. 
   
 If you like my Repos, Please click the ⭐
